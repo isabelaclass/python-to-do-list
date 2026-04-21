@@ -1,5 +1,3 @@
-from re import match
-
 tasks = []
 
 print("Welcome to the Task Manager!")
